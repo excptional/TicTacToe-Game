@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe - Bikash Dutta</string>
+    <string name="WELCOME">Welcome To Tic Tac Toe</string>
+    <string name="ourbroad">ourbroad</string>
+    <string name="status">Tap to start the game....</string>
+    <string name="button">Reset</string>
+</resources>
